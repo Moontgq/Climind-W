@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☁️ Climind v5 — The Evolution
+# ☁️ Climind v5 — The Evolution (New Version is Coming Soon ...)
 
 **From a Weather App to Your Daily Mindful Companion**
 
